@@ -1,0 +1,9 @@
+Link: /
+Menu: no
+Title: Eli Qian
+
+# Hi. I'm a student based in the USA. This is a collection of interesting moments from my life.
+
+---
+
+Read my [**blog**](http://eliqian.com/blog), learn [**about**](http://eliqian.com/about) me, or check out some [**lists**](http://eliqian.com/lists).
